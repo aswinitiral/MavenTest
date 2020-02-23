@@ -1,0 +1,6 @@
+2020-02-06 16:35:01,606 - log4jtestclass -INFO - setup method started
+2020-02-06 16:35:01,631 - log4jtestclass -INFO - login method started
+2020-02-06 16:35:01,635 - log4jtestclass -INFO - login method progress
+2020-02-06 16:35:01,635 - log4jtestclass -INFO - login method completed
+2020-02-06 16:35:01,635 - log4jtestclass -INFO - login method passed
+2020-02-06 16:35:01,643 - log4jtestclass -INFO - logout method started
